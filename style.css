@@ -14,7 +14,7 @@ body {
 
 main {
     width: 1120px;
-    margin: 88px 80px;
+    margin: 88px auto;
 }
 
 #home p {
@@ -40,7 +40,7 @@ h1 {
     margin-top: 8px;
 }
 
-img {
+#home img {
     width: 100%;
     border-radius: 28px;
 }
@@ -77,6 +77,8 @@ h3 {
     background-position-y: -100px;
 }
 
+
+
 .img-local-2 {
     background-image: url(assets/Image_03.png);
     background-position-y: -150px;
@@ -87,11 +89,19 @@ h3 {
     background-position-y: -250px;
 }
 
+ul {
+    padding-left: 24px;
+}
+
 .divider-2 {
     margin-block: 40px;
 }
 
 footer {
     text-align: center;
+}
+
+footer img {
+    vertical-align: middle;
 }
 
