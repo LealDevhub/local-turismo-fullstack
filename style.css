@@ -50,6 +50,11 @@ h2 {
     margin-bottom: 8px;
 }
 
+#locals {
+    margin-top: 64px;
+    margin-bottom: 40px;
+}
+
 .intro-locals {
     margin-block: 64px; 
 }
@@ -93,11 +98,8 @@ ul {
     padding-left: 24px;
 }
 
-.divider-2 {
-    margin-block: 40px;
-}
-
 footer {
+    margin-top: 40px;
     text-align: center;
 }
 
